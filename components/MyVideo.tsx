@@ -57,8 +57,6 @@ export const MyVideo: React.FC = () => {
     return null;
   }
 
-  console.log("total ", durationInFrames);
-
   const totalImages = images.length;
   const totalTransitionFrames = (totalImages - 1) * TRANSITION_DURATION;
   const totalFrames = durationInFrames + totalTransitionFrames;

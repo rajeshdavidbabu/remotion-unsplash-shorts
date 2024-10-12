@@ -29,8 +29,6 @@ export const VideoCaptions: React.FC = () => {
     combineTokensWithinMilliseconds: 1000,
   });
 
-  console.log(pages);
-
   const allTokens = pages.flatMap((page) => page.tokens);
 
   return (
