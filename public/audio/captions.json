@@ -1,0 +1,1169 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "426f786b-cbfe-4092-9917-544d7f3f63f6",
+    "sha256": "8b22bce4762ff6167a1433fa0008f54d6fc94f364507ad7092b9deed4c84d2ad",
+    "created": "2024-10-12T14:32:55.264Z",
+    "duration": 57.913437,
+    "channels": 1,
+    "models": ["30089e05-99d1-4376-b32e-c263170674af"],
+    "model_info": {
+      "30089e05-99d1-4376-b32e-c263170674af": {
+        "name": "2-general-nova",
+        "version": "2024-01-09.29447",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Brothers and sisters, consider the greatness of our lord Jesus Christ. Though he was in the very form of god, he did not count equality with god something to be grasped. Instead, he emptied himself, taking on the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. It was for our sake that he bore the weight of our sin. He who knew no sin became sin, so that in him we might become the righteousness of God. By his wounds, we are healed, and through his sacrifice, we are reconciled to the father. This is the love of Christ, that while we were still sinners, Christ died for us. Therefore, let us live no longer for ourselves, but for him who for our sake died and was raised.",
+            "confidence": 0.9998404,
+            "words": [
+              {
+                "word": "brothers",
+                "start": 0.16,
+                "end": 0.48,
+                "confidence": 0.99855953,
+                "punctuated_word": "Brothers"
+              },
+              {
+                "word": "and",
+                "start": 0.48,
+                "end": 0.56,
+                "confidence": 0.99980396,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "sisters",
+                "start": 0.56,
+                "end": 1.06,
+                "confidence": 0.9983864,
+                "punctuated_word": "sisters,"
+              },
+              {
+                "word": "consider",
+                "start": 1.36,
+                "end": 1.86,
+                "confidence": 0.99995196,
+                "punctuated_word": "consider"
+              },
+              {
+                "word": "the",
+                "start": 1.92,
+                "end": 2.08,
+                "confidence": 0.99999094,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "greatness",
+                "start": 2.08,
+                "end": 2.56,
+                "confidence": 0.99998987,
+                "punctuated_word": "greatness"
+              },
+              {
+                "word": "of",
+                "start": 2.56,
+                "end": 2.8,
+                "confidence": 0.9999974,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "our",
+                "start": 2.8,
+                "end": 2.96,
+                "confidence": 0.9999907,
+                "punctuated_word": "our"
+              },
+              {
+                "word": "lord",
+                "start": 2.96,
+                "end": 3.28,
+                "confidence": 0.82445985,
+                "punctuated_word": "lord"
+              },
+              {
+                "word": "jesus",
+                "start": 3.28,
+                "end": 3.6799998,
+                "confidence": 0.97957134,
+                "punctuated_word": "Jesus"
+              },
+              {
+                "word": "christ",
+                "start": 3.6799998,
+                "end": 4.18,
+                "confidence": 0.99969393,
+                "punctuated_word": "Christ."
+              },
+              {
+                "word": "though",
+                "start": 4.72,
+                "end": 4.96,
+                "confidence": 0.9995782,
+                "punctuated_word": "Though"
+              },
+              {
+                "word": "he",
+                "start": 4.96,
+                "end": 5.12,
+                "confidence": 0.99929845,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "was",
+                "start": 5.12,
+                "end": 5.2799997,
+                "confidence": 0.9999924,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "in",
+                "start": 5.2799997,
+                "end": 5.44,
+                "confidence": 0.99998295,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 5.44,
+                "end": 5.52,
+                "confidence": 0.99997413,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "very",
+                "start": 5.52,
+                "end": 5.8399997,
+                "confidence": 0.999977,
+                "punctuated_word": "very"
+              },
+              {
+                "word": "form",
+                "start": 5.8399997,
+                "end": 6.08,
+                "confidence": 0.9999089,
+                "punctuated_word": "form"
+              },
+              {
+                "word": "of",
+                "start": 6.08,
+                "end": 6.24,
+                "confidence": 0.9999933,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "god",
+                "start": 6.24,
+                "end": 6.72,
+                "confidence": 0.84399784,
+                "punctuated_word": "god,"
+              },
+              {
+                "word": "he",
+                "start": 6.72,
+                "end": 6.96,
+                "confidence": 0.9998018,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "did",
+                "start": 6.96,
+                "end": 7.2,
+                "confidence": 0.9999964,
+                "punctuated_word": "did"
+              },
+              {
+                "word": "not",
+                "start": 7.2,
+                "end": 7.3599997,
+                "confidence": 0.99993396,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "count",
+                "start": 7.3599997,
+                "end": 7.68,
+                "confidence": 0.9994972,
+                "punctuated_word": "count"
+              },
+              {
+                "word": "equality",
+                "start": 7.68,
+                "end": 8.18,
+                "confidence": 0.99967515,
+                "punctuated_word": "equality"
+              },
+              {
+                "word": "with",
+                "start": 8.32,
+                "end": 8.559999,
+                "confidence": 0.99996924,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "god",
+                "start": 8.559999,
+                "end": 8.88,
+                "confidence": 0.9415954,
+                "punctuated_word": "god"
+              },
+              {
+                "word": "something",
+                "start": 8.88,
+                "end": 9.28,
+                "confidence": 0.99787307,
+                "punctuated_word": "something"
+              },
+              {
+                "word": "to",
+                "start": 9.28,
+                "end": 9.44,
+                "confidence": 0.99996316,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "be",
+                "start": 9.44,
+                "end": 9.679999,
+                "confidence": 0.99999726,
+                "punctuated_word": "be"
+              },
+              {
+                "word": "grasped",
+                "start": 9.679999,
+                "end": 10.179999,
+                "confidence": 0.9967422,
+                "punctuated_word": "grasped."
+              },
+              {
+                "word": "instead",
+                "start": 10.8,
+                "end": 11.3,
+                "confidence": 0.9994987,
+                "punctuated_word": "Instead,"
+              },
+              {
+                "word": "he",
+                "start": 11.679999,
+                "end": 11.92,
+                "confidence": 0.9998913,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "emptied",
+                "start": 11.92,
+                "end": 12.4,
+                "confidence": 0.9999906,
+                "punctuated_word": "emptied"
+              },
+              {
+                "word": "himself",
+                "start": 12.4,
+                "end": 12.9,
+                "confidence": 0.96515167,
+                "punctuated_word": "himself,"
+              },
+              {
+                "word": "taking",
+                "start": 13.36,
+                "end": 13.679999,
+                "confidence": 0.9998524,
+                "punctuated_word": "taking"
+              },
+              {
+                "word": "on",
+                "start": 13.679999,
+                "end": 13.84,
+                "confidence": 0.9999286,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "the",
+                "start": 13.84,
+                "end": 14,
+                "confidence": 0.9999616,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "form",
+                "start": 14,
+                "end": 14.32,
+                "confidence": 0.9999491,
+                "punctuated_word": "form"
+              },
+              {
+                "word": "of",
+                "start": 14.32,
+                "end": 14.4,
+                "confidence": 0.99993753,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "a",
+                "start": 14.4,
+                "end": 14.559999,
+                "confidence": 0.99992704,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "servant",
+                "start": 14.559999,
+                "end": 15.059999,
+                "confidence": 0.85183936,
+                "punctuated_word": "servant,"
+              },
+              {
+                "word": "being",
+                "start": 15.434999,
+                "end": 15.594999,
+                "confidence": 0.9997335,
+                "punctuated_word": "being"
+              },
+              {
+                "word": "born",
+                "start": 15.594999,
+                "end": 16.074999,
+                "confidence": 0.9996216,
+                "punctuated_word": "born"
+              },
+              {
+                "word": "in",
+                "start": 16.074999,
+                "end": 16.315,
+                "confidence": 0.99990356,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 16.315,
+                "end": 16.475,
+                "confidence": 0.99989295,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "likeness",
+                "start": 16.475,
+                "end": 16.955,
+                "confidence": 0.999972,
+                "punctuated_word": "likeness"
+              },
+              {
+                "word": "of",
+                "start": 16.955,
+                "end": 17.115,
+                "confidence": 0.9999405,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "men",
+                "start": 17.115,
+                "end": 17.615,
+                "confidence": 0.9944504,
+                "punctuated_word": "men."
+              },
+              {
+                "word": "and",
+                "start": 17.994999,
+                "end": 18.314999,
+                "confidence": 0.99966955,
+                "punctuated_word": "And"
+              },
+              {
+                "word": "being",
+                "start": 18.314999,
+                "end": 18.555,
+                "confidence": 0.9991671,
+                "punctuated_word": "being"
+              },
+              {
+                "word": "found",
+                "start": 18.555,
+                "end": 18.955,
+                "confidence": 0.99997604,
+                "punctuated_word": "found"
+              },
+              {
+                "word": "in",
+                "start": 18.955,
+                "end": 19.115,
+                "confidence": 0.9998623,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "human",
+                "start": 19.115,
+                "end": 19.595,
+                "confidence": 0.9996183,
+                "punctuated_word": "human"
+              },
+              {
+                "word": "form",
+                "start": 19.595,
+                "end": 20.095,
+                "confidence": 0.99978256,
+                "punctuated_word": "form,"
+              },
+              {
+                "word": "he",
+                "start": 20.154999,
+                "end": 20.474998,
+                "confidence": 0.99976104,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "humbled",
+                "start": 20.474998,
+                "end": 20.875,
+                "confidence": 0.9998659,
+                "punctuated_word": "humbled"
+              },
+              {
+                "word": "himself",
+                "start": 20.875,
+                "end": 21.375,
+                "confidence": 0.99996185,
+                "punctuated_word": "himself"
+              },
+              {
+                "word": "by",
+                "start": 21.435,
+                "end": 21.675,
+                "confidence": 0.9974964,
+                "punctuated_word": "by"
+              },
+              {
+                "word": "becoming",
+                "start": 21.675,
+                "end": 22.175,
+                "confidence": 0.9998161,
+                "punctuated_word": "becoming"
+              },
+              {
+                "word": "obedient",
+                "start": 22.235,
+                "end": 22.735,
+                "confidence": 0.99998045,
+                "punctuated_word": "obedient"
+              },
+              {
+                "word": "to",
+                "start": 22.875,
+                "end": 23.035,
+                "confidence": 0.9999291,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 23.035,
+                "end": 23.195,
+                "confidence": 0.99995875,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "point",
+                "start": 23.195,
+                "end": 23.515,
+                "confidence": 0.99995196,
+                "punctuated_word": "point"
+              },
+              {
+                "word": "of",
+                "start": 23.515,
+                "end": 23.675,
+                "confidence": 0.9999652,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "death",
+                "start": 23.675,
+                "end": 24.175,
+                "confidence": 0.99422693,
+                "punctuated_word": "death,"
+              },
+              {
+                "word": "even",
+                "start": 24.555,
+                "end": 24.955,
+                "confidence": 0.99980456,
+                "punctuated_word": "even"
+              },
+              {
+                "word": "death",
+                "start": 24.955,
+                "end": 25.275,
+                "confidence": 0.99995124,
+                "punctuated_word": "death"
+              },
+              {
+                "word": "on",
+                "start": 25.275,
+                "end": 25.435,
+                "confidence": 0.99943715,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "a",
+                "start": 25.435,
+                "end": 25.595,
+                "confidence": 0.9993167,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "cross",
+                "start": 25.595,
+                "end": 26.095,
+                "confidence": 0.99986535,
+                "punctuated_word": "cross."
+              },
+              {
+                "word": "it",
+                "start": 26.794998,
+                "end": 26.954998,
+                "confidence": 0.99941516,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "was",
+                "start": 26.954998,
+                "end": 27.195,
+                "confidence": 0.99997437,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "for",
+                "start": 27.195,
+                "end": 27.435,
+                "confidence": 0.9998654,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "our",
+                "start": 27.435,
+                "end": 27.675,
+                "confidence": 0.9998072,
+                "punctuated_word": "our"
+              },
+              {
+                "word": "sake",
+                "start": 27.675,
+                "end": 28.075,
+                "confidence": 0.9999397,
+                "punctuated_word": "sake"
+              },
+              {
+                "word": "that",
+                "start": 28.075,
+                "end": 28.314999,
+                "confidence": 0.99821836,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "he",
+                "start": 28.314999,
+                "end": 28.474998,
+                "confidence": 0.99994004,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "bore",
+                "start": 28.474998,
+                "end": 28.794998,
+                "confidence": 0.999752,
+                "punctuated_word": "bore"
+              },
+              {
+                "word": "the",
+                "start": 28.794998,
+                "end": 28.875,
+                "confidence": 0.9999137,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "weight",
+                "start": 28.875,
+                "end": 29.195,
+                "confidence": 0.9999968,
+                "punctuated_word": "weight"
+              },
+              {
+                "word": "of",
+                "start": 29.195,
+                "end": 29.355,
+                "confidence": 0.99981886,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "our",
+                "start": 29.355,
+                "end": 29.595,
+                "confidence": 0.9999211,
+                "punctuated_word": "our"
+              },
+              {
+                "word": "sin",
+                "start": 29.595,
+                "end": 30.095,
+                "confidence": 0.9993893,
+                "punctuated_word": "sin."
+              },
+              {
+                "word": "he",
+                "start": 30.73,
+                "end": 31.05,
+                "confidence": 0.998844,
+                "punctuated_word": "He"
+              },
+              {
+                "word": "who",
+                "start": 31.05,
+                "end": 31.289999,
+                "confidence": 0.96567684,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "knew",
+                "start": 31.289999,
+                "end": 31.61,
+                "confidence": 0.99996257,
+                "punctuated_word": "knew"
+              },
+              {
+                "word": "no",
+                "start": 31.61,
+                "end": 31.93,
+                "confidence": 0.9999578,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "sin",
+                "start": 31.93,
+                "end": 32.41,
+                "confidence": 0.99993634,
+                "punctuated_word": "sin"
+              },
+              {
+                "word": "became",
+                "start": 32.41,
+                "end": 32.81,
+                "confidence": 0.99699473,
+                "punctuated_word": "became"
+              },
+              {
+                "word": "sin",
+                "start": 32.81,
+                "end": 33.31,
+                "confidence": 0.9593197,
+                "punctuated_word": "sin,"
+              },
+              {
+                "word": "so",
+                "start": 33.69,
+                "end": 33.93,
+                "confidence": 0.9997538,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "that",
+                "start": 33.93,
+                "end": 34.09,
+                "confidence": 0.99994195,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "in",
+                "start": 34.09,
+                "end": 34.329998,
+                "confidence": 0.9994505,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "him",
+                "start": 34.329998,
+                "end": 34.809998,
+                "confidence": 0.9996859,
+                "punctuated_word": "him"
+              },
+              {
+                "word": "we",
+                "start": 34.809998,
+                "end": 35.05,
+                "confidence": 0.9147766,
+                "punctuated_word": "we"
+              },
+              {
+                "word": "might",
+                "start": 35.05,
+                "end": 35.37,
+                "confidence": 0.9998404,
+                "punctuated_word": "might"
+              },
+              {
+                "word": "become",
+                "start": 35.37,
+                "end": 35.85,
+                "confidence": 0.99941933,
+                "punctuated_word": "become"
+              },
+              {
+                "word": "the",
+                "start": 35.85,
+                "end": 36.09,
+                "confidence": 0.9999285,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "righteousness",
+                "start": 36.09,
+                "end": 36.59,
+                "confidence": 0.99967766,
+                "punctuated_word": "righteousness"
+              },
+              {
+                "word": "of",
+                "start": 36.73,
+                "end": 36.89,
+                "confidence": 0.99998975,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "god",
+                "start": 36.89,
+                "end": 37.39,
+                "confidence": 0.9996861,
+                "punctuated_word": "God."
+              },
+              {
+                "word": "by",
+                "start": 38.329998,
+                "end": 38.57,
+                "confidence": 0.99700505,
+                "punctuated_word": "By"
+              },
+              {
+                "word": "his",
+                "start": 38.57,
+                "end": 38.809998,
+                "confidence": 0.9978071,
+                "punctuated_word": "his"
+              },
+              {
+                "word": "wounds",
+                "start": 38.809998,
+                "end": 39.29,
+                "confidence": 0.78600883,
+                "punctuated_word": "wounds,"
+              },
+              {
+                "word": "we",
+                "start": 39.29,
+                "end": 39.53,
+                "confidence": 0.9999131,
+                "punctuated_word": "we"
+              },
+              {
+                "word": "are",
+                "start": 39.53,
+                "end": 39.77,
+                "confidence": 0.9999747,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "healed",
+                "start": 39.77,
+                "end": 40.27,
+                "confidence": 0.9285048,
+                "punctuated_word": "healed,"
+              },
+              {
+                "word": "and",
+                "start": 40.57,
+                "end": 40.89,
+                "confidence": 0.9998678,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "through",
+                "start": 40.89,
+                "end": 41.129997,
+                "confidence": 0.999524,
+                "punctuated_word": "through"
+              },
+              {
+                "word": "his",
+                "start": 41.129997,
+                "end": 41.37,
+                "confidence": 0.9989561,
+                "punctuated_word": "his"
+              },
+              {
+                "word": "sacrifice",
+                "start": 41.37,
+                "end": 41.87,
+                "confidence": 0.95343924,
+                "punctuated_word": "sacrifice,"
+              },
+              {
+                "word": "we",
+                "start": 42.17,
+                "end": 42.41,
+                "confidence": 0.9999144,
+                "punctuated_word": "we"
+              },
+              {
+                "word": "are",
+                "start": 42.41,
+                "end": 42.65,
+                "confidence": 0.9999751,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "reconciled",
+                "start": 42.65,
+                "end": 43.15,
+                "confidence": 0.999993,
+                "punctuated_word": "reconciled"
+              },
+              {
+                "word": "to",
+                "start": 43.45,
+                "end": 43.61,
+                "confidence": 0.99995995,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 43.61,
+                "end": 43.77,
+                "confidence": 0.9998474,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "father",
+                "start": 43.77,
+                "end": 44.27,
+                "confidence": 0.9366491,
+                "punctuated_word": "father."
+              },
+              {
+                "word": "this",
+                "start": 44.985,
+                "end": 45.225002,
+                "confidence": 0.9997155,
+                "punctuated_word": "This"
+              },
+              {
+                "word": "is",
+                "start": 45.225002,
+                "end": 45.465,
+                "confidence": 0.99997807,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 45.465,
+                "end": 45.625,
+                "confidence": 0.99993336,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "love",
+                "start": 45.625,
+                "end": 45.865,
+                "confidence": 0.9997825,
+                "punctuated_word": "love"
+              },
+              {
+                "word": "of",
+                "start": 45.865,
+                "end": 46.025,
+                "confidence": 0.9999577,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "christ",
+                "start": 46.025,
+                "end": 46.525,
+                "confidence": 0.93684757,
+                "punctuated_word": "Christ,"
+              },
+              {
+                "word": "that",
+                "start": 46.905003,
+                "end": 47.145,
+                "confidence": 0.99343115,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "while",
+                "start": 47.145,
+                "end": 47.385002,
+                "confidence": 0.9969869,
+                "punctuated_word": "while"
+              },
+              {
+                "word": "we",
+                "start": 47.385002,
+                "end": 47.545002,
+                "confidence": 0.999912,
+                "punctuated_word": "we"
+              },
+              {
+                "word": "were",
+                "start": 47.545002,
+                "end": 47.705,
+                "confidence": 0.9995757,
+                "punctuated_word": "were"
+              },
+              {
+                "word": "still",
+                "start": 47.705,
+                "end": 48.025,
+                "confidence": 0.99917454,
+                "punctuated_word": "still"
+              },
+              {
+                "word": "sinners",
+                "start": 48.025,
+                "end": 48.525,
+                "confidence": 0.998735,
+                "punctuated_word": "sinners,"
+              },
+              {
+                "word": "christ",
+                "start": 48.985,
+                "end": 49.465,
+                "confidence": 0.99992585,
+                "punctuated_word": "Christ"
+              },
+              {
+                "word": "died",
+                "start": 49.465,
+                "end": 49.865,
+                "confidence": 0.9999943,
+                "punctuated_word": "died"
+              },
+              {
+                "word": "for",
+                "start": 49.865,
+                "end": 50.025,
+                "confidence": 0.99997675,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "us",
+                "start": 50.025,
+                "end": 50.525,
+                "confidence": 0.9999109,
+                "punctuated_word": "us."
+              },
+              {
+                "word": "therefore",
+                "start": 51.305,
+                "end": 51.805,
+                "confidence": 0.9925608,
+                "punctuated_word": "Therefore,"
+              },
+              {
+                "word": "let",
+                "start": 52.185,
+                "end": 52.345,
+                "confidence": 0.9997837,
+                "punctuated_word": "let"
+              },
+              {
+                "word": "us",
+                "start": 52.345,
+                "end": 52.585,
+                "confidence": 0.99991167,
+                "punctuated_word": "us"
+              },
+              {
+                "word": "live",
+                "start": 52.585,
+                "end": 52.825,
+                "confidence": 0.9998826,
+                "punctuated_word": "live"
+              },
+              {
+                "word": "no",
+                "start": 52.825,
+                "end": 53.065002,
+                "confidence": 0.9997596,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "longer",
+                "start": 53.065002,
+                "end": 53.385002,
+                "confidence": 0.99998164,
+                "punctuated_word": "longer"
+              },
+              {
+                "word": "for",
+                "start": 53.385002,
+                "end": 53.625,
+                "confidence": 0.9999634,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "ourselves",
+                "start": 53.625,
+                "end": 54.125,
+                "confidence": 0.9420943,
+                "punctuated_word": "ourselves,"
+              },
+              {
+                "word": "but",
+                "start": 54.505,
+                "end": 54.745003,
+                "confidence": 0.9998728,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "for",
+                "start": 54.745003,
+                "end": 54.985,
+                "confidence": 0.9998907,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "him",
+                "start": 54.985,
+                "end": 55.225,
+                "confidence": 0.9986243,
+                "punctuated_word": "him"
+              },
+              {
+                "word": "who",
+                "start": 55.225,
+                "end": 55.465,
+                "confidence": 0.97461206,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "for",
+                "start": 55.465,
+                "end": 55.705,
+                "confidence": 0.68158245,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "our",
+                "start": 55.705,
+                "end": 55.945,
+                "confidence": 0.99981624,
+                "punctuated_word": "our"
+              },
+              {
+                "word": "sake",
+                "start": 55.945,
+                "end": 56.345,
+                "confidence": 0.99991584,
+                "punctuated_word": "sake"
+              },
+              {
+                "word": "died",
+                "start": 56.345,
+                "end": 56.745003,
+                "confidence": 0.99242413,
+                "punctuated_word": "died"
+              },
+              {
+                "word": "and",
+                "start": 56.745003,
+                "end": 56.985,
+                "confidence": 0.99492997,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "was",
+                "start": 56.985,
+                "end": 57.225,
+                "confidence": 0.99994075,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "raised",
+                "start": 57.225,
+                "end": 57.725,
+                "confidence": 0.9997902,
+                "punctuated_word": "raised."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nBrothers and sisters, consider the greatness of our lord Jesus Christ. Though he was in the very form of god, he did not count equality with god something to be grasped. Instead, he emptied himself, taking on the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. It was for our sake that he bore the weight of our sin.\n\nHe who knew no sin became sin, so that in him we might become the righteousness of God. By his wounds, we are healed, and through his sacrifice, we are reconciled to the father. This is the love of Christ, that while we were still sinners, Christ died for us. Therefore, let us live no longer for ourselves, but for him who for our sake died and was raised.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Brothers and sisters, consider the greatness of our lord Jesus Christ.",
+                      "start": 0.16,
+                      "end": 4.18
+                    },
+                    {
+                      "text": "Though he was in the very form of god, he did not count equality with god something to be grasped.",
+                      "start": 4.72,
+                      "end": 10.179999
+                    },
+                    {
+                      "text": "Instead, he emptied himself, taking on the form of a servant, being born in the likeness of men.",
+                      "start": 10.8,
+                      "end": 17.615
+                    },
+                    {
+                      "text": "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.",
+                      "start": 17.994999,
+                      "end": 26.095
+                    },
+                    {
+                      "text": "It was for our sake that he bore the weight of our sin.",
+                      "start": 26.794998,
+                      "end": 30.095
+                    }
+                  ],
+                  "num_words": 84,
+                  "start": 0.16,
+                  "end": 30.095
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "He who knew no sin became sin, so that in him we might become the righteousness of God.",
+                      "start": 30.73,
+                      "end": 37.39
+                    },
+                    {
+                      "text": "By his wounds, we are healed, and through his sacrifice, we are reconciled to the father.",
+                      "start": 38.329998,
+                      "end": 44.27
+                    },
+                    {
+                      "text": "This is the love of Christ, that while we were still sinners, Christ died for us.",
+                      "start": 44.985,
+                      "end": 50.525
+                    },
+                    {
+                      "text": "Therefore, let us live no longer for ourselves, but for him who for our sake died and was raised.",
+                      "start": 51.305,
+                      "end": 57.725
+                    }
+                  ],
+                  "num_words": 69,
+                  "start": 30.73,
+                  "end": 57.725
+                }
+              ]
+            }
+          }
+        ],
+        "detected_language": "en",
+        "language_confidence": 0.99230814
+      }
+    ]
+  }
+}
