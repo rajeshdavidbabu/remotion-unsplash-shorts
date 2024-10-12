@@ -33,7 +33,7 @@ export const MyVideo: React.FC = () => {
   const fetchImages = useCallback(async () => {
     try {
       const response = await fetch(
-        `https://api.unsplash.com/search/photos?query=glorious+jesus+christ&orientation=portrait&per_page=5&client_id=${process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY}`
+        `https://api.unsplash.com/search/photos?query=lord-jesus-christ&orientation=portrait&per_page=5&client_id=${process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY}`
       );
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
