@@ -15,12 +15,12 @@ import {
   springTiming,
 } from "@remotion/transitions";
 import { fade } from "@remotion/transitions/fade";
-import { slide } from "@remotion/transitions/slide";
 import { useEffect, useState, useCallback } from "react";
 import { VideoCaptions } from "./Caption";
 import React from "react";
+import { loadFont } from "../lib/load-font";
 
-const TRANSITION_DURATION = 30; // 1 second at 30 fps
+const TRANSITION_DURATION = 60; // 1 second at 30 fps
 const MIN_SEQUENCE_DURATION = TRANSITION_DURATION + 1; // Ensure sequence is longer than transition
 const ZOOM_FACTOR = 1.3; // Maximum zoom (1.1 = 110% of original size)
 
@@ -50,6 +50,7 @@ export const MyVideo: React.FC = () => {
   }, [handle]);
 
   useEffect(() => {
+    loadFont();
     fetchImages();
   }, [fetchImages]);
 
@@ -89,7 +90,7 @@ export const MyVideo: React.FC = () => {
   );
 
   return (
-    <AbsoluteFill>
+    <AbsoluteFill className="bg-black">
       <TransitionSeries>
         {images.map((image, index) => {
           const isLastImage = index === totalImages - 1;
@@ -139,13 +140,10 @@ const ZoomingImage: React.FC<ZoomingImageProps> = ({ src, duration }) => {
   return (
     <Img
       src={src}
+      className="absolute top-1/2 left-1/2 object-cover"
       style={{
-        position: "absolute",
-        top: "50%",
-        left: "50%",
         width: `${100 * zoom}%`,
         height: `${100 * zoom}%`,
-        objectFit: "cover",
         transform: `translate(-50%, -50%)`,
       }}
     />

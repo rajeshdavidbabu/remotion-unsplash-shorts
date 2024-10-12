@@ -77,5 +77,8 @@
     "unsplash-js": "^7.0.18",
     "vaul": "^0.9.9",
     "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@remotion/tailwind": "^4.0.221"
   }
 }
